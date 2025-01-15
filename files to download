@@ -1,0 +1,4 @@
+https://pjreddie.com/darknet/yolo/
+from the above link download the yolov3.cfg and yolov3.weights files and place them in same directory as your script.
+and also from above file download coco.names or you can download it from a verified repository of darknet
+but you can easily get yolov3.cfg and coc.names from my repository..
